@@ -22,6 +22,8 @@ In this game, unlike most implementations, we don't discreminate for having seve
 During the rounds, the players will be shown the results of all previous rounds. That is, whether it ended as a draw or if someone won it.
 ### 4. All-time winners history
 At the end of each game, the players can view the winners of all previews sessions of Game of Drones, as well as play a re-match.
+### 5. Modifiable choices
+Do you wish to remove Paper from the game? Or maybe prefer playing the popular Rock-Paper-Scissors-Lizard-Spock? Should you ever want to make any changes to the possible choices in Game of Drones, you can always go to [Seed.js](https://github.com/EricMoIr/Game-of-Drones/blob/master/game-of-drones-backend/util/seed.js) and create or modify the moves to your liking.
 
 ## Setup
 Prerequisites:
