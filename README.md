@@ -5,7 +5,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Setup](#setup)
-- [Architecture details](#architecture-details)
 
 ## Introduction
 
@@ -31,8 +30,10 @@ Prerequisites:
 To run this game, one must follow these steps:
 1. Download/Clone the repository
 2. Open a Command Prompt console/terminal and place yourself in the root of the backend project
-3. Enter the command ```node app```
-4. Open a new Command Prompt console/terminal and place yourself in the root of the frontend project
-5. Enter the command ```npm start```
+3. Enter the command ```node app``` to run the backend
+4. Depending on the configuration of your OS, you might have to give permissions to NodeJS to access your network
+5. Open a new Command Prompt console/terminal and place yourself in the root of the frontend project
+6. Enter the command ```npm install``` to install the dependencies of the project
+7. Enter the command ```npm start``` to run the project!
  
 ##### Enjoy the fight over the Empire's Throne!
